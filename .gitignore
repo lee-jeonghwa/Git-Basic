@@ -1,3 +1,4 @@
+*.a
 # Vim Swap files
 *.swp
 
